@@ -5,12 +5,12 @@ body {
     font-size: 1em;
 }
 img {
-    width: 25%;
+    width: 50%;
     height: auto;
 }
 footer{
-    padding: 20px;
-    border-top: 10px solid black;
+    padding: 10px;
+    border-top: 5px solid black;
 }
 .FlexContainer {
     display: flex;
