@@ -10,7 +10,7 @@ img {
 }
 footer{
     padding: 20px;
-    border: 10px solid black;
+    border-top: 10px solid black;
 }
 .FlexContainer {
     display: flex;
