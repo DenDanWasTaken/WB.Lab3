@@ -23,8 +23,3 @@ footer{
     overflow: auto;
     flex-direction: row;
 }
-.line {
-    margin: 30px;
-    width: 20px;
-    background: black;
-}
