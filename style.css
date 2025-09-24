@@ -8,6 +8,9 @@ img {
     width: 25%;
     height: auto;
 }
+.footer{
+    padding: 20px;
+}
 .FlexContainer {
     display: flex;
     flex-wrap: nowrap;
