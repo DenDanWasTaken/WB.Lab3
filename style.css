@@ -4,6 +4,10 @@ body {
     margn:20px;
     font-size: 1em;
 }
+img {
+    width: 50%;
+    height: auto;
+}
 .FlexContainer {
     display: flex;
     flex-wrap: nowrap;
