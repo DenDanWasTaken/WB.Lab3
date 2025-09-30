@@ -19,10 +19,6 @@ header.title h1 {
     margin-bottom: 10px;
 }
 
-header.title p {
-    magin: 5px 0;
-}
-
 .FlexContainer {
     display: flex;
     gap: 40px;
