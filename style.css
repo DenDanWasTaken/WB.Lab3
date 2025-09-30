@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    margn:20px;
+    margin:20px;
     font-size: 1em;
 }
 img {
@@ -22,4 +22,5 @@ footer{
     height: 80vh;
     overflow: auto;
     flex-direction: row;
+    gap: 20px;
 }
