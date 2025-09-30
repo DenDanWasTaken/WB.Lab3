@@ -58,8 +58,14 @@ header.title h1 {
     transform: scale(1.05);
 }
 
-      footer {
-          padding: 10px;
-          border-top: 5px solid black;
-          background-color: #ffebf0;
-      }
+.cat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer {
+    padding: 10px;
+    border-top: 5px solid black;
+    background-color: #ffebf0;
+}
