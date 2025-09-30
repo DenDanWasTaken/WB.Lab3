@@ -5,7 +5,8 @@ body {
     font-size: 1em;
 }
 img {
-    width: 50%;
+    width: 80%;
+    max-width: 800px;
     height: auto;
 }
 footer{
