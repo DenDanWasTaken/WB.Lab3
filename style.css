@@ -28,7 +28,7 @@ header.title p {
     display: flex;
     gap: 40px;
     justify-content: center;
-    aligh-items: center;
+    align-items: center;
     flex-wrap: wrap;
     padding: 20px;
     flex: 1;
