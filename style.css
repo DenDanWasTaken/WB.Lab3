@@ -20,8 +20,7 @@ header.title h1 {
 }
 
 header.title p {
-    margin-top: 0;
-    margin-bottom: 10px;
+    magin: 5px 0;
 }
 
 .FlexContainer {
